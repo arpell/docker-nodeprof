@@ -1,3 +1,4 @@
+[![Build Status](https://app.travis-ci.com/trueblooda/docker-nodeprof.svg?branch=master)](https://app.travis-ci.com/trueblooda/docker-nodeprof)
 # docker-nodeprof
 
 This repo contains a Dockerfile for NodeProf. Shell scripts have been provided to automate the process of (a) building NodeProf, and (b) analyzing programs.
